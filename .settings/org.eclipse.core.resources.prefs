@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/interfaces/DatabaseLogger.java=UTF-8
+encoding//src/interfaces/JdbcProductDao.java=UTF-8
+encoding//src/interfaces/ProductManager.java=UTF-8
